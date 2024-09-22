@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.club {
+  max-width: 500px;
+  margin: 0 auto;
+  .club-item {
+    border-bottom: 2px solid rgb(222, 219, 219);
+    padding: 5px;
+    margin-bottom: 10px;
+    .club-item-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      p {
+        margin: 0;
+      }
+      .format-icon {
+        color: rgb(62, 59, 239);
+      }
+    }
+  }
+}
