@@ -9,9 +9,6 @@ function App() {
   return (
     <>
       <Club />
-      <h2>anhhau</h2>
-      <h1>fsdfsdfdf</h1>
-      <h2>dsafdf</h2>
     </>
   );
 }
